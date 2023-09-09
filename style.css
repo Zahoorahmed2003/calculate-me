@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+    width: 100%;
+    background: #272626;
+  }
+  
+  .button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 55px;
+    text-align: center;
+    
+  }
+  .bg{
+    color: #ffffff;
+    background: #04AA6D;
+  
+  }
+  .row {
+    margin: 8px 0;
+  }
+  
+  .input {
+    margin: 0;
+    padding: 10px 0;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 6px;
+  }
+  
+  
